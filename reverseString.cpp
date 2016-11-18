@@ -1,4 +1,6 @@
-//Try to reverse a string without library functions
+//Programmer: Dale Ming
+//This is a programming exercise to try to
+//reverse a string without library functions
 
 #include <iostream>
 #include <cstring>
